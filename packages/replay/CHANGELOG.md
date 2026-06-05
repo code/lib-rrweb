@@ -1,5 +1,15 @@
 # @rrweb/replay
 
+## 2.0.2
+
+### Patch Changes
+
+- [#1864](https://github.com/rrweb-io/rrweb/pull/1864) [`7f0f75f`](https://github.com/rrweb-io/rrweb/commit/7f0f75f14d96fc7043ab6cfb52dfe8bbb73b499e) Thanks [@eoghanmurray](https://github.com/eoghanmurray)! - Fix that the replayer `getCurrentTime()` was getting 'stuck' in liveMode after last event was exhausted
+
+- Updated dependencies [[`7f0f75f`](https://github.com/rrweb-io/rrweb/commit/7f0f75f14d96fc7043ab6cfb52dfe8bbb73b499e)]:
+  - rrweb@2.0.2
+  - @rrweb/types@2.0.2
+
 ## 2.0.1
 
 ### Patch Changes
